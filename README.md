@@ -1,1 +1,1 @@
-# nextjs-whatsapp-clone-starter
+# MailMate-A real-time Chat Application
